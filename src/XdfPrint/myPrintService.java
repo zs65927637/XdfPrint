@@ -5,7 +5,7 @@ import javax.swing.*;
 
 public class myPrintService {
 	/*the constructor of the service*/
-	//TODO: may be we should add a method which is used to communciate with GUI and service 
+	//TODO: may be we should add a method which is used to communicate with GUI and service 
 	public myPrintService(){
 		
 	}

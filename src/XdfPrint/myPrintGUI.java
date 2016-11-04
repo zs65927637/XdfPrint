@@ -14,12 +14,14 @@ public class myPrintGUI {
 	private MenuItem printSetup = new MenuItem("Print Setup");
 	
 	// method part
-	public myPrintGUI(){}
+	public myPrintGUI(){
+		
+	}
 	
 	//TODO: maybe we should add a file choose window; 
 	
 	/*@author Alex Qu
-	 * NOTIC!!! in this method you must deploy printMenuItem() to add action listener to menu item
+	 * NOTICE!!! in this method you must deploy printMenuItem() to add action listener to menu item
 	 * */
 	public void GUIInitial(){}
 	
