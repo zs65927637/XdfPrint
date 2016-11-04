@@ -8,8 +8,13 @@ import javax.swing.*;
 public class myPrintGUI {
 	public myPrintGUI(){}
 	public void GUIInitial(){}
-	public void printMenuItem(){}
-	
+	public void printMenuItem(){
+		
+	}
+	/*author Alex Qu
+	 * this method is used to create a printer dialog
+	 * in the dialog the information of page format should be delivery to service class
+	 * */
 	public void myPrintDialog(){
 		PrinterJob pj = PrinterJob.getPrinterJob();
 		if(pj.printDialog()){
