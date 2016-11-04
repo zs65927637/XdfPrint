@@ -9,13 +9,13 @@ public class myPrintService {
 	public myPrintService(){
 		
 	}
-	
+	//use the ghost4j
 	public void convertPdf2Ps(){
 		
 	}
 	
 	public void getService(){
-		
+		.clone()..convertPdf2Ps();
 	}
 	
 	public void getUsrSetting(){
