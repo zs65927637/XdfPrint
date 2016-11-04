@@ -8,10 +8,20 @@ public class myPrintService {
 	public myPrintService(){
 		
 	}
+	
 	public void convertPdf2Ps(){
 		
 	}
-	public void getService(){}
-	public void getUsrSetting(){}
-	public void getPrint(){}
+	
+	public void getService(){
+		
+	}
+	
+	public void getUsrSetting(){
+		
+	}
+	
+	public void getPrint(){
+		
+	}
 }
